@@ -64,5 +64,138 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chrome River is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/chrome-river_stock/
+Chrome River provides enterprise expense and invoice management solutions, now operating as part of Emburse. The platform offers automated expense reporting, compliance controls, analytics, and integration capabilities for large organizations, helping streamline travel and spend processes across global operations. It supports multi-currency handling, policy enforcement, receipt capture via mobile, and integrates with ERP, accounting, and travel booking systems, delivering comprehensive spend visibility and control for enterprises worldwide.
+
+**Areas:** Finance · Expense Management · Software-as-a-Service · Enterprise · Travel
+
+## Chrome River on APIs.io
+
+Everything profiled for Chrome River is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chrome-river/](https://apis.io/providers/chrome-river/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [Chrome River Accounts API](https://apis.io/apis/chrome-river/chrome-river-accounts-api/) — The Accounts API from Chrome River — 4 operation(s) for accounts.
+- [Chrome River Allowances API](https://apis.io/apis/chrome-river/chrome-river-allowances-api/) — The Allowances API from Chrome River — 1 operation(s) for allowances.
+- [Chrome River Cards API](https://apis.io/apis/chrome-river/chrome-river-cards-api/) — The Cards API from Chrome River — 3 operation(s) for cards.
+- [Chrome River Categories API](https://apis.io/apis/chrome-river/chrome-river-categories-api/) — The Categories API from Chrome River — 2 operation(s) for categories.
+- [Chrome River Company API](https://apis.io/apis/chrome-river/chrome-river-company-api/) — The Company API from Chrome River — 2 operation(s) for company.
+- [Chrome River Departments API](https://apis.io/apis/chrome-river/chrome-river-departments-api/) — The Departments API from Chrome River — 2 operation(s) for departments.
+- [Chrome River Labels API](https://apis.io/apis/chrome-river/chrome-river-labels-api/) — The Labels API from Chrome River — 2 operation(s) for labels.
+- [Chrome River Locations API](https://apis.io/apis/chrome-river/chrome-river-locations-api/) — The Locations API from Chrome River — 2 operation(s) for locations.
+- [Chrome River Members API](https://apis.io/apis/chrome-river/chrome-river-members-api/) — The Members API from Chrome River — 3 operation(s) for members.
+- [Chrome River Merchant Categories API](https://apis.io/apis/chrome-river/chrome-river-merchant-categories-api/) — The Merchant Categories API from Chrome River — 1 operation(s) for merchant categories.
+- [Chrome River OAuth API](https://apis.io/apis/chrome-river/chrome-river-oauth-api/) — The Oauth API from Chrome River — 3 operation(s) for oauth.
+- [Chrome River Requisitions API](https://apis.io/apis/chrome-river/chrome-river-requisitions-api/) — The Requisitions API from Chrome River — 2 operation(s) for requisitions.
+- [Chrome River Shared Links API](https://apis.io/apis/chrome-river/chrome-river-shared-links-api/) — The Shared Links API from Chrome River — 2 operation(s) for shared links.
+- [Chrome River Shipping Addresses API](https://apis.io/apis/chrome-river/chrome-river-shipping-addresses-api/) — The Shipping Addresses API from Chrome River — 2 operation(s) for shipping addresses.
+- [Chrome River Transactions API](https://apis.io/apis/chrome-river/chrome-river-transactions-api/) — The Transactions API from Chrome River — 2 operation(s) for transactions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [APIAccount](https://apis.io/schemas/chrome-river/chrome-river-apiaccount/)
+- [APICard](https://apis.io/schemas/chrome-river/chrome-river-apicard/)
+- [APICompany](https://apis.io/schemas/chrome-river/chrome-river-apicompany/)
+- [APIRequisition](https://apis.io/schemas/chrome-river/chrome-river-apirequisition/)
+- [APIStatementLine](https://apis.io/schemas/chrome-river/chrome-river-apistatement-line/)
+- [APITransaction](https://apis.io/schemas/chrome-river/chrome-river-apitransaction/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Chrome River Context](https://apis.io/jsonld/chrome-river/chrome-river-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Chrome River API Rules](https://apis.io/rules/chrome-river/chrome-river-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Chrome River Authentication](https://apis.io/security/chrome-river/chrome-river-authentication/)
+- [Chrome River Domain Security](https://apis.io/security/chrome-river/chrome-river-domain-security/)
+- [Chrome River Vulnerability Disclosure](https://apis.io/security/chrome-river/chrome-river-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Chrome River Plans Pricing](https://apis.io/plans/chrome-river/chrome-river-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.emburse.com/products/chrome-river-is-enterprise)
+- [Documentation](https://help.billing.emburse.com/)
+- [Pricing](https://www.emburse.com/products/spend/pricing)
+- [Support](https://help.emburse.com/hc/en-us)
+- [Blog](https://www.emburse.com/blog)
+- [Security](https://www.emburse.com/uk/legal/security)
+- [Trust centre](https://trust.emburse.com/)
+- [Privacy policy](https://www.emburse.com/uk/legal/privacy-policy)
+- [GitHub](https://github.com/emburse)
+
+## API Evangelist rating
+
+**Kin Score 49.6** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 62.2 |
+| Contract governance | 22.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 30.4 |
+| Access clarity | 73.7 |
+
+**Agent readiness 25.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 31.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chrome-river/](https://apis.io/providers/chrome-river/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chrome River: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chrome-river/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
